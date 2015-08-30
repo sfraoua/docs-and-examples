@@ -35,3 +35,9 @@ git commit -i myfile.php
 ```git
 git rm -r --cached .
 ```
+
+##Delete origin branch
+==================
+```git
+git push origin --delete branch-name
+```
